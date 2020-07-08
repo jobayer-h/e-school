@@ -74,3 +74,43 @@
     width: 80px;
     margin-bottom: 20px;
 }
+
+/* online courses */
+.card{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    border: none;
+}
+.card:hover{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.5)
+}
+.card img{
+    margin: 20px auto;
+    width: 90%;
+}
+.card-footer{
+    border-top: none;
+    background-color: transparent;
+}
+.card-footer i{
+    color: #585859;
+    font-size: 13px;
+}
+.card-text{
+    font-size: 16px;
+}
+.buy-course{
+    width: 120px;
+    height: 25px;
+    font-size: 14px;
+}
+.course-box{
+    margin: 5px auto;
+}
+.section-heading{
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+    color: #413960;
+    margin-bottom: 40px;
+}
