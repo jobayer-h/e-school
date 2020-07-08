@@ -1,0 +1,76 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.nav-link{
+    color: black !important;
+    margin: 0 20px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.navbar{
+    margin-top: 20px;
+}
+.button{
+    background-color:#21B573;
+    border-radius: 25px;
+    text-align: center;
+    color: white !important;
+    border: none;
+}
+.sign-in{
+    width: 104px;
+    height: 43px;
+}
+.button:hover{
+    box-shadow:2px 2px 20px lightgray;
+    text-decoration: none;
+}
+
+/* hero area css */
+.hero-area{
+    background-color: #F0FFF0;
+}
+.hero-img{
+    width: 100%;
+}
+.hero-area small{
+    color: #FD511A;
+}
+.hero-area span{
+    color: #21B573;
+}
+.hero-area p{
+    color: #6C6B6B;
+}
+.hero-area h1{
+    font-weight: 800;
+}
+.get-started{
+    width: 130px;
+    height: 43px;
+}
+
+
+/* spaciality section */
+.box{
+    height: 270px;
+    width: 270px;
+    text-align: center;
+    background-color: #F8FFFB;
+    border-radius: 15px;
+    margin: 5px auto;
+}
+.box:hover{
+    background-color: white;
+    box-shadow: 2px 2px 20px lightslategray;
+    
+    cursor: pointer;
+}
+.icon{
+    width: 80px;
+    margin-bottom: 20px;
+}
